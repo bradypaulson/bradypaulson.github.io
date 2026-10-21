@@ -1,11 +1,21 @@
 ---
-title: "bradypaulson.github.io"
+title: "Brady Paulson"
+image: media/IMG_0070.jpeg
+toc: false
+about:
+  template: jolla
+  image-width: 10cm
+  image-shape: round
+  links: 
+    - icon: github
+      href: http://github.com/bradypaulson
+      target: blank
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1 + 1 + 1
+```{[1]}
+1 + 1
 ```
