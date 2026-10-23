@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Brady Paulson"
+  #title: "Brady Paulson"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - icon: github
+        href: https://github.com/bradypaulson
+        target: blank
+      
 
 format:
   html:

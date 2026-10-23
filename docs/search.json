@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Download PDF file."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brady Paulson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1"
+    "text": "this is paragraph text\n\nthis\nis a\nunordered\nlist\n\n\nthis\nis\nan ordered\nlist"
+  },
+  {
+    "objectID": "index.html#this-is-header-2",
+    "href": "index.html#this-is-header-2",
+    "title": "Brady Paulson",
+    "section": "",
+    "text": "this is paragraph text\n\nthis\nis a\nunordered\nlist\n\n\nthis\nis\nan ordered\nlist"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
